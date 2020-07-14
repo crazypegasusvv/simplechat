@@ -1,2 +1,2 @@
 # simplechat
-simple chat app using nodemon from some tutorial I saw long back!
+simple chat app using nodemon, express from a [tutorial](https://medium.com/@noufel.gouirhate/build-a-simple-chat-app-with-node-js-and-socket-io-ea716c093088) I saw. 
